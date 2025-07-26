@@ -1,2 +1,1 @@
-# OpenAI-development
-I love ChatGPT :D
+# I love ChatGPT :D
